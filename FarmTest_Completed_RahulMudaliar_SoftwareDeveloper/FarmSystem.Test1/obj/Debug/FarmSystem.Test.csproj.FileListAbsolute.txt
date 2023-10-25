@@ -1,0 +1,7 @@
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/bin/Debug/FarmSystem.Test1.exe.config
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/bin/Debug/FarmSystem.Test1.exe
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/bin/Debug/FarmSystem.Test1.pdb
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/obj/Debug/FarmSystem.Test.csproj.AssemblyReference.cache
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/obj/Debug/FarmSystem.Test.csproj.CoreCompileInputs.cache
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/obj/Debug/FarmSystem.Test1.exe
+/Users/rahulmudaliar/Downloads/ETL-Repo-master/FarmSystem.Test1/obj/Debug/FarmSystem.Test1.pdb
